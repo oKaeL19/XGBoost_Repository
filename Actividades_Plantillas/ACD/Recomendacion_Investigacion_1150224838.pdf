@@ -1,0 +1,436 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 7662
+>>
+stream
+0.5670000000000001 w
+0 G
+0.12 0.02 0.2 rg
+0. 841.8899999999999864 595.2755905511811534 -127.5590551181102512 re
+f
+BT
+/F1 20 Tf
+23. TL
+1. g
+56.6929133858267775 785.1970866141732586 Td
+(InvestigaMatch UNL) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+1. g
+56.6929133858267775 756.8506299212598378 Td
+(REPORTE DE AFINIDAD ACADÉMICA \(CUMPLIMIENTO LOPDP\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+1. g
+56.6929133858267775 737.0081102362204319 Td
+(Identificación: 1150224838 | Fecha: 8/4/2026) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 671.8112598425196893 Td
+(1. DATOS DEL TITULAR \(ESTUDIANTE\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 649.1340944881889072 Td
+(Nombre: Cael Alejandro Soto Castillo) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 632.1262204724408775 Td
+(Ciclo/Paralelo: 4mo Ciclo - A) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 615.1183464566928478 Td
+(Itinerario: Ingeniería de Software) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 572.5986614173227736 Td
+(2. TEMAS RECOMENDADOS) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 544.2522047244094665 Td
+(1. Framework de testing con IA para microservicios) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 527.2443307086614368 Td
+(Metodología: Experimento | Afinidad: 80%) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 487.559291338582625 Td
+(2. Sistema de detección de plagio con IA en programación) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 470.5514173228345953 Td
+(Metodología: Experimento | Afinidad: 70%) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 430.8663779527558404 Td
+(3. Telemedicina con IA para comunidades rurales) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 413.8585039370078107 Td
+(Metodología: Investigación-acción | Afinidad: 40%) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 345.8270078740156919 Td
+(3. JUSTIFICACIÓN ACADÉMICA) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+56.6929133858267775 325.9844881889763428 Td
+(Estimado **Cael Alejandro Soto Castillo**, como asesor académico de la **Universidad Nacional de Loja \(UNL\)**, he) Tj
+T* (analizado tu propuesta titulada: *"Framework de testing con IA para microservicios"*.) Tj
+T* () Tj
+T* (Desde la perspectiva de la ciberseguridad, la arquitectura de software y el cumplimiento legal vigente en el Ecuador, tu) Tj
+T* (proyecto no solo es técnicamente ambicioso, sino estratégicamente necesario. A continuación, presento la justificación) Tj
+T* (académica y ética de este proyecto, centrada en el rigor científico y el contexto de nuestra región.) Tj
+T* () Tj
+T* (---) Tj
+T* () Tj
+T* (### 1. Justificación Técnica y Rigor Científico) Tj
+T* (La transición de arquitecturas monolíticas a **microservicios** ha incrementado la complejidad de las pruebas \(testing\).) Tj
+T* (Un sistema distribuido presenta múltiples puntos de falla y una superficie de ataque extendida.) Tj
+T* (*   **IA como Catalizador:** La implementación de Inteligencia Artificial para la generación de casos de prueba, detección) Tj
+T* (de anomalías en el tráfico entre servicios y *fuzzing* inteligente permite una cobertura que el testing manual o) Tj
+T* (automatizado tradicional no puede alcanzar.) Tj
+T* (*   **Aporte al Estado del Arte:** Tu framework permitirá optimizar el ciclo de vida de desarrollo \(DevSecOps\), reduciendo) Tj
+T* (los falsos positivos en las pruebas de regresión y asegurando la **interoperabilidad segura**.) Tj
+T* () Tj
+T* (### 2. Marco Legal: Cumplimiento de la LOPDP \(Ecuador\)) Tj
+T* (En el contexto ecuatoriano, la **Ley Orgánica de Protección de Datos Personales \(LOPDP\)**, plenamente vigente, exige) Tj
+T* (que las instituciones y empresas garanticen la confidencialidad, integridad y disponibilidad de los datos.) Tj
+T* () Tj
+T* (*   **Principio de Seguridad \(Art. 10\):** El responsable del tratamiento de datos debe implementar medidas técnicas y) Tj
+T* (organizativas. Tu framework es la herramienta que valida que dichas medidas funcionen antes de que el software salga a) Tj
+T* (producción.) Tj
+T* (*   **Seguridad del Tratamiento \(Art. 38\):** La ley obliga a realizar evaluaciones de riesgo. Tu proyecto automatiza la) Tj
+T* (identificación de vulnerabilidades que podrían derivar en fugas de datos, protegiendo a las organizaciones de las) Tj
+T* (sanciones pecuniarias previstas en la normativa \(que pueden llegar al 1% de la facturación anual\).) Tj
+T* () Tj
+T* (### 3. Impacto en el Contexto de Loja, Ecuador) Tj
+T* (Loja se ha posicionado como un **"Hub Tecnológico"** del sur del país, con un ecosistema creciente de startups,) Tj
+T* (empresas de desarrollo de software y una academia vibrante.) Tj
+T* () Tj
+T* (*   **Soberanía Tecnológica:** El desarrollo de herramientas locales de ciberseguridad reduce la dependencia de) Tj
+T* (software extranjero costoso, permitiendo que las PYMES tecnológicas de Loja compitan a nivel internacional con) Tj
+T* (estándares de calidad europeos o norteamericanos.) Tj
+T* (*   **Protección del Sector Público y Privado:** En Loja, instituciones como el Municipio, empresas eléctricas o de) Tj
+T* (telecomunicaciones manejan datos sensibles de miles de ciudadanos. Un framework de testing robusto asegura que las) Tj
+T* (aplicaciones que consumen estos ciudadanos sean resilientes ante ciberataques.) Tj
+T* (*   **Transferencia de Conocimiento:** Como estudiante de la UNL, este proyecto eleva el estándar investigativo de la) Tj
+T* (carrera, alineándose con la visión de transformar la matriz productiva de la región mediante el conocimiento.) Tj
+T* () Tj
+T* (### 4. Ética y Responsabilidad Social) Tj
+T* (Desde el asesoramiento académico, subrayamos que tu framework debe regirse por la **Ética de la IA**:) Tj
+T* (1.  **Transparencia:** Los algoritmos de testing deben ser auditables.) Tj
+T* (2.  **Privacidad por Diseño:** El framework no debe recolectar datos reales durante las pruebas, sino fomentar el uso de) Tj
+T* (datos sintéticos, respetando la privacidad del usuario final lojano.) Tj
+T* () Tj
+T* (### Conclusión y Aval Académico) Tj
+T* (Cael, tu propuesta es **ideal** porque une la vanguardia tecnológica \(IA + Microservicios\) con una necesidad legal) Tj
+T* (imperativa en Ecuador \(LOPDP\). No se trata solo de "encontrar errores", sino de construir **confianza digital** en una) Tj
+T* (sociedad que está digitalizando sus servicios más críticos.) Tj
+T* () Tj
+T* (Tu proyecto tiene el potencial de convertirse en un referente para la industria de software de Loja, garantizando que el) Tj
+T* (talento local no solo cree código, sino que cree **código seguro y ético**.) Tj
+T* () Tj
+T* (**Adelante con la investigación. La UNL respalda iniciativas que protejan la integridad de la sociedad a través de la) Tj
+T* (ciencia.**) Tj
+ET
+0.96 g
+28.3464566929133888 104.8821259842518714 538.5826771653544256 -70.8661417322834666 re
+f
+BT
+/F1 7 Tf
+8.0499999999999989 TL
+0.392 g
+42.5196850393700814 87.8742519685038133 Td
+(CLÁUSULA DE PROTECCIÓN DE DATOS:) Tj
+ET
+BT
+/F1 7 Tf
+8.0499999999999989 TL
+0.392 g
+42.5196850393700814 76.5356692913385359 Td
+(En cumplimiento con la LOPDP \(Ecuador\), se informa que los datos recolectados en este diagnóstico han sido tratados bajo los) Tj
+ET
+BT
+/F1 7 Tf
+8.0499999999999989 TL
+0.392 g
+42.5196850393700814 65.1970866141731449 Td
+(principios de lealtad, transparencia y finalidad estrictamente académica para la asignatura de Metodología de la Investigación.) Tj
+ET
+BT
+/F1 7 Tf
+8.0499999999999989 TL
+0.392 g
+42.5196850393700814 53.8585039370077538 Td
+(Usted puede ejercer sus derechos de acceso, rectificación o eliminación contactando a la secretaría de la Carrera de Computación.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20260408105819-05'00')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000007866 00000 n 
+0000009683 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000007923 00000 n 
+0000008048 00000 n 
+0000008178 00000 n 
+0000008311 00000 n 
+0000008448 00000 n 
+0000008571 00000 n 
+0000008700 00000 n 
+0000008832 00000 n 
+0000008968 00000 n 
+0000009096 00000 n 
+0000009223 00000 n 
+0000009352 00000 n 
+0000009485 00000 n 
+0000009587 00000 n 
+0000009931 00000 n 
+0000010017 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <ACF30C27639DA36B04DBABC5DA1CDB05> <ACF30C27639DA36B04DBABC5DA1CDB05> ]
+>>
+startxref
+10121
+%%EOF
